@@ -1,1 +1,1 @@
-# Medical-Insurance-Cost-Prediction-using-Multiple-Linear-Regression-Assignment1-
+# Medical Insurance Cost Prediction using Multiple Linear Regression (Assignment1)
